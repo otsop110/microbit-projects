@@ -18,7 +18,7 @@ Step-by-step instructions:
 
 3. Attach another crocodile clip on another piece of foil (door, computer or treasure box).
 
-4. Write your code.
+4. Write your code in micro:bit editor. [Example code for burglar alarm](https://makecode.microbit.org/_D9pbj5afuHCc).
 
 5. Connect the micro:bit. Connect your alarm switch to PIN2 ( either the one on the or the door frame) and the other to GND.
 
@@ -28,13 +28,11 @@ Step-by-step instructions:
 
 #### Pseudo code
 
-When the two contacts stop being connected - when the circuit breaks - play sound of your liking and show an icon or text.
-
-Play it as long as the contacts are not connected.
-
-Disarm the alarm by pressing buttons A and B.
-Check is the alarm is set. if not, set the alarm.
-Leave yourself time to exit the room.
+* When the two contacts stop being connected - when the circuit breaks - play sound of your liking and show an icon or text.
+* Play it as long as the contacts are not connected.
+* Disarm the alarm by pressing buttons A and B.
+* Check first if the alarm is set. If not, set the alarm.
+* Leave yourself time to exit the room.
 
 This fun project was inspired by this [MicroMonsters YouTube video](https://www.youtube.com/embed/igeUhVMqVRw).
 
