@@ -18,7 +18,7 @@ Step-by-step instructions:
 
 3. Attach another crocodile clip on another piece of foil (door, computer or treasure box).
 
-4. Write your code in micro:bit editor. [Example code for burglar alarm](https://makecode.microbit.org/_D9pbj5afuHCc).
+4. Write your code in micro:bit editor. [Example code for burglar alarm](https://makecode.microbit.org/_9Y6P3fXEs88u).
 
 5. Connect the micro:bit. Connect your alarm switch to PIN2 ( either the one on the or the door frame) and the other to GND.
 
