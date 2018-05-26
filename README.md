@@ -4,14 +4,16 @@ This is a collection of Micro:bit projects for 10-12 year old kids. I've found t
 
 ### Burglar Alarm
 
-For the burglar alarm you'll need 
+For this project you'll need the following:
 * a BBC micro:bit, 
 * a speaker (Piezo buzzer or headphones will do too)
 * aluminum foil
 * crocodile clips.
 
-This fun project was inspired by this MicroMonsters YouTube video.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/igeUhVMqVRw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+This fun project was inspired by this [MicroMonsters YouTube video](https://www.youtube.com/embed/igeUhVMqVRw).
+
 
 ### Remote Control Micro:bot
 
