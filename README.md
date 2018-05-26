@@ -5,7 +5,7 @@ This is a collection of Micro:bit projects for 10-12 year old kids. I've found t
 ### Burglar Alarm
 
 For this project you'll need the following:
-* a BBC micro:bit, 
+* a BBC micro:bit 
 * a speaker (Piezo buzzer or headphones will do too)
 * aluminum foil
 * some crocodile clips.
