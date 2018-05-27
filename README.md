@@ -39,6 +39,12 @@ This fun project was inspired by this [MicroMonsters YouTube video](https://www.
 
 ### Remote Control Micro:bot
 
+This is en excellent playful hands-on activity that can be expanded to a Sumo bot fight. Build the bot body, code its movements and customize it with Lego or other accessories to make it more sturdy.
+
+[Instructions on how to build the Bicro:bot body](https://make.techwillsaveus.com/bbc-microbit/activities/build-your-microbot-body)
+[Instructions on how to code the Micro:bot radio control](https://make.techwillsaveus.com/bbc-microbit/activities/microbot-radio-control)
+
+Bot bodies can be found from different providers. I've so far tested only the ones from [Techwillsaveus.com](https://www.techwillsaveus.com/shop/microbit-microbot-pack/).
 
 ### Remote Control Burglar Alarm
 
